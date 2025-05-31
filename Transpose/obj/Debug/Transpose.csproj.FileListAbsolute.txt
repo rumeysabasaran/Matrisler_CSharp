@@ -1,0 +1,7 @@
+C:\Users\Rümeysa\OneDrive\Masaüstü\MatrisUygulamaları\Transpose\bin\Debug\Transpose.exe.config
+C:\Users\Rümeysa\OneDrive\Masaüstü\MatrisUygulamaları\Transpose\bin\Debug\Transpose.exe
+C:\Users\Rümeysa\OneDrive\Masaüstü\MatrisUygulamaları\Transpose\bin\Debug\Transpose.pdb
+C:\Users\Rümeysa\OneDrive\Masaüstü\MatrisUygulamaları\Transpose\obj\Debug\Transpose.csproj.AssemblyReference.cache
+C:\Users\Rümeysa\OneDrive\Masaüstü\MatrisUygulamaları\Transpose\obj\Debug\Transpose.csproj.CoreCompileInputs.cache
+C:\Users\Rümeysa\OneDrive\Masaüstü\MatrisUygulamaları\Transpose\obj\Debug\Transpose.exe
+C:\Users\Rümeysa\OneDrive\Masaüstü\MatrisUygulamaları\Transpose\obj\Debug\Transpose.pdb
