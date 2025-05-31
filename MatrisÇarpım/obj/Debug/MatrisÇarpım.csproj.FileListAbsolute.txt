@@ -1,0 +1,7 @@
+C:\Users\Rümeysa\OneDrive\Masaüstü\MatrisUygulamaları\MatrisÇarpım\bin\Debug\MatrisÇarpım.exe.config
+C:\Users\Rümeysa\OneDrive\Masaüstü\MatrisUygulamaları\MatrisÇarpım\bin\Debug\MatrisÇarpım.exe
+C:\Users\Rümeysa\OneDrive\Masaüstü\MatrisUygulamaları\MatrisÇarpım\bin\Debug\MatrisÇarpım.pdb
+C:\Users\Rümeysa\OneDrive\Masaüstü\MatrisUygulamaları\MatrisÇarpım\obj\Debug\MatrisÇarpım.csproj.AssemblyReference.cache
+C:\Users\Rümeysa\OneDrive\Masaüstü\MatrisUygulamaları\MatrisÇarpım\obj\Debug\MatrisÇarpım.csproj.CoreCompileInputs.cache
+C:\Users\Rümeysa\OneDrive\Masaüstü\MatrisUygulamaları\MatrisÇarpım\obj\Debug\MatrisÇarpım.exe
+C:\Users\Rümeysa\OneDrive\Masaüstü\MatrisUygulamaları\MatrisÇarpım\obj\Debug\MatrisÇarpım.pdb

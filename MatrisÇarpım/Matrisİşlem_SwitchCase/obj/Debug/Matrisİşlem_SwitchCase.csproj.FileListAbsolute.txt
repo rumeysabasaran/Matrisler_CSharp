@@ -1,0 +1,7 @@
+C:\Users\Rümeysa\OneDrive\Masaüstü\MatrisUygulamaları\Matrisİşlem_SwitchCase\bin\Debug\Matrisİşlem_SwitchCase.exe.config
+C:\Users\Rümeysa\OneDrive\Masaüstü\MatrisUygulamaları\Matrisİşlem_SwitchCase\bin\Debug\Matrisİşlem_SwitchCase.exe
+C:\Users\Rümeysa\OneDrive\Masaüstü\MatrisUygulamaları\Matrisİşlem_SwitchCase\bin\Debug\Matrisİşlem_SwitchCase.pdb
+C:\Users\Rümeysa\OneDrive\Masaüstü\MatrisUygulamaları\Matrisİşlem_SwitchCase\obj\Debug\Matrisİşlem_SwitchCase.csproj.AssemblyReference.cache
+C:\Users\Rümeysa\OneDrive\Masaüstü\MatrisUygulamaları\Matrisİşlem_SwitchCase\obj\Debug\Matrisİşlem_SwitchCase.csproj.CoreCompileInputs.cache
+C:\Users\Rümeysa\OneDrive\Masaüstü\MatrisUygulamaları\Matrisİşlem_SwitchCase\obj\Debug\Matrisİşlem_SwitchCase.exe
+C:\Users\Rümeysa\OneDrive\Masaüstü\MatrisUygulamaları\Matrisİşlem_SwitchCase\obj\Debug\Matrisİşlem_SwitchCase.pdb
