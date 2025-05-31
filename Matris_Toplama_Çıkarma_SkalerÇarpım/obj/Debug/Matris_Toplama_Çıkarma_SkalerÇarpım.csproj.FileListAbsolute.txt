@@ -1,0 +1,7 @@
+C:\Users\Rümeysa\OneDrive\Masaüstü\MatrisUygulamaları\Matris_Toplama_Çıkarma_SkalerÇarpım\bin\Debug\Matris_Toplama_Çıkarma_SkalerÇarpım.exe.config
+C:\Users\Rümeysa\OneDrive\Masaüstü\MatrisUygulamaları\Matris_Toplama_Çıkarma_SkalerÇarpım\bin\Debug\Matris_Toplama_Çıkarma_SkalerÇarpım.exe
+C:\Users\Rümeysa\OneDrive\Masaüstü\MatrisUygulamaları\Matris_Toplama_Çıkarma_SkalerÇarpım\bin\Debug\Matris_Toplama_Çıkarma_SkalerÇarpım.pdb
+C:\Users\Rümeysa\OneDrive\Masaüstü\MatrisUygulamaları\Matris_Toplama_Çıkarma_SkalerÇarpım\obj\Debug\Matris_Toplama_Çıkarma_SkalerÇarpım.csproj.AssemblyReference.cache
+C:\Users\Rümeysa\OneDrive\Masaüstü\MatrisUygulamaları\Matris_Toplama_Çıkarma_SkalerÇarpım\obj\Debug\Matris_Toplama_Çıkarma_SkalerÇarpım.csproj.CoreCompileInputs.cache
+C:\Users\Rümeysa\OneDrive\Masaüstü\MatrisUygulamaları\Matris_Toplama_Çıkarma_SkalerÇarpım\obj\Debug\Matris_Toplama_Çıkarma_SkalerÇarpım.exe
+C:\Users\Rümeysa\OneDrive\Masaüstü\MatrisUygulamaları\Matris_Toplama_Çıkarma_SkalerÇarpım\obj\Debug\Matris_Toplama_Çıkarma_SkalerÇarpım.pdb
