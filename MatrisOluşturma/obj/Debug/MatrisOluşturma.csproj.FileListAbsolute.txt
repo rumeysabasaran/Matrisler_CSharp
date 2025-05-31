@@ -1,0 +1,7 @@
+C:\Users\Rümeysa\OneDrive\Masaüstü\MatrisUygulamaları\MatrisOluşturma\bin\Debug\MatrisOluşturma.exe.config
+C:\Users\Rümeysa\OneDrive\Masaüstü\MatrisUygulamaları\MatrisOluşturma\bin\Debug\MatrisOluşturma.exe
+C:\Users\Rümeysa\OneDrive\Masaüstü\MatrisUygulamaları\MatrisOluşturma\bin\Debug\MatrisOluşturma.pdb
+C:\Users\Rümeysa\OneDrive\Masaüstü\MatrisUygulamaları\MatrisOluşturma\obj\Debug\MatrisOluşturma.csproj.AssemblyReference.cache
+C:\Users\Rümeysa\OneDrive\Masaüstü\MatrisUygulamaları\MatrisOluşturma\obj\Debug\MatrisOluşturma.csproj.CoreCompileInputs.cache
+C:\Users\Rümeysa\OneDrive\Masaüstü\MatrisUygulamaları\MatrisOluşturma\obj\Debug\MatrisOluşturma.exe
+C:\Users\Rümeysa\OneDrive\Masaüstü\MatrisUygulamaları\MatrisOluşturma\obj\Debug\MatrisOluşturma.pdb
