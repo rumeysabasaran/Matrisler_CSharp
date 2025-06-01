@@ -1,0 +1,7 @@
+C:\Users\Rümeysa\OneDrive\Masaüstü\MatrisUygulamaları\MatrisKöşegen\bin\Debug\MatrisKöşegen.exe.config
+C:\Users\Rümeysa\OneDrive\Masaüstü\MatrisUygulamaları\MatrisKöşegen\bin\Debug\MatrisKöşegen.exe
+C:\Users\Rümeysa\OneDrive\Masaüstü\MatrisUygulamaları\MatrisKöşegen\bin\Debug\MatrisKöşegen.pdb
+C:\Users\Rümeysa\OneDrive\Masaüstü\MatrisUygulamaları\MatrisKöşegen\obj\Debug\MatrisKöşegen.csproj.AssemblyReference.cache
+C:\Users\Rümeysa\OneDrive\Masaüstü\MatrisUygulamaları\MatrisKöşegen\obj\Debug\MatrisKöşegen.csproj.CoreCompileInputs.cache
+C:\Users\Rümeysa\OneDrive\Masaüstü\MatrisUygulamaları\MatrisKöşegen\obj\Debug\MatrisKöşegen.exe
+C:\Users\Rümeysa\OneDrive\Masaüstü\MatrisUygulamaları\MatrisKöşegen\obj\Debug\MatrisKöşegen.pdb
