@@ -1,0 +1,7 @@
+C:\Users\Rümeysa\OneDrive\Masaüstü\MatrisUygulamaları\MatrisKumSaati\bin\Debug\MatrisKumSaati.exe.config
+C:\Users\Rümeysa\OneDrive\Masaüstü\MatrisUygulamaları\MatrisKumSaati\bin\Debug\MatrisKumSaati.exe
+C:\Users\Rümeysa\OneDrive\Masaüstü\MatrisUygulamaları\MatrisKumSaati\bin\Debug\MatrisKumSaati.pdb
+C:\Users\Rümeysa\OneDrive\Masaüstü\MatrisUygulamaları\MatrisKumSaati\obj\Debug\MatrisKumSaati.csproj.AssemblyReference.cache
+C:\Users\Rümeysa\OneDrive\Masaüstü\MatrisUygulamaları\MatrisKumSaati\obj\Debug\MatrisKumSaati.csproj.CoreCompileInputs.cache
+C:\Users\Rümeysa\OneDrive\Masaüstü\MatrisUygulamaları\MatrisKumSaati\obj\Debug\MatrisKumSaati.exe
+C:\Users\Rümeysa\OneDrive\Masaüstü\MatrisUygulamaları\MatrisKumSaati\obj\Debug\MatrisKumSaati.pdb
