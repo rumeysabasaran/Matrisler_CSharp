@@ -1,0 +1,7 @@
+C:\Users\Rümeysa\OneDrive\Masaüstü\MatrisUygulamaları\CümleSayısıBulma\bin\Debug\CümleSayısıBulma.exe.config
+C:\Users\Rümeysa\OneDrive\Masaüstü\MatrisUygulamaları\CümleSayısıBulma\bin\Debug\CümleSayısıBulma.exe
+C:\Users\Rümeysa\OneDrive\Masaüstü\MatrisUygulamaları\CümleSayısıBulma\bin\Debug\CümleSayısıBulma.pdb
+C:\Users\Rümeysa\OneDrive\Masaüstü\MatrisUygulamaları\CümleSayısıBulma\obj\Debug\CümleSayısıBulma.csproj.AssemblyReference.cache
+C:\Users\Rümeysa\OneDrive\Masaüstü\MatrisUygulamaları\CümleSayısıBulma\obj\Debug\CümleSayısıBulma.csproj.CoreCompileInputs.cache
+C:\Users\Rümeysa\OneDrive\Masaüstü\MatrisUygulamaları\CümleSayısıBulma\obj\Debug\CümleSayısıBulma.exe
+C:\Users\Rümeysa\OneDrive\Masaüstü\MatrisUygulamaları\CümleSayısıBulma\obj\Debug\CümleSayısıBulma.pdb
