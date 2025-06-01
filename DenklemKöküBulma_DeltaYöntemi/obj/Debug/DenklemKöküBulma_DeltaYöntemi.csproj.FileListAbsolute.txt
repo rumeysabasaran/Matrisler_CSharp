@@ -1,0 +1,7 @@
+C:\Users\Rümeysa\OneDrive\Masaüstü\MatrisUygulamaları\DenklemKöküBulma_DeltaYöntemi\bin\Debug\DenklemKöküBulma_DeltaYöntemi.exe.config
+C:\Users\Rümeysa\OneDrive\Masaüstü\MatrisUygulamaları\DenklemKöküBulma_DeltaYöntemi\bin\Debug\DenklemKöküBulma_DeltaYöntemi.exe
+C:\Users\Rümeysa\OneDrive\Masaüstü\MatrisUygulamaları\DenklemKöküBulma_DeltaYöntemi\bin\Debug\DenklemKöküBulma_DeltaYöntemi.pdb
+C:\Users\Rümeysa\OneDrive\Masaüstü\MatrisUygulamaları\DenklemKöküBulma_DeltaYöntemi\obj\Debug\DenklemKöküBulma_DeltaYöntemi.csproj.AssemblyReference.cache
+C:\Users\Rümeysa\OneDrive\Masaüstü\MatrisUygulamaları\DenklemKöküBulma_DeltaYöntemi\obj\Debug\DenklemKöküBulma_DeltaYöntemi.csproj.CoreCompileInputs.cache
+C:\Users\Rümeysa\OneDrive\Masaüstü\MatrisUygulamaları\DenklemKöküBulma_DeltaYöntemi\obj\Debug\DenklemKöküBulma_DeltaYöntemi.exe
+C:\Users\Rümeysa\OneDrive\Masaüstü\MatrisUygulamaları\DenklemKöküBulma_DeltaYöntemi\obj\Debug\DenklemKöküBulma_DeltaYöntemi.pdb
