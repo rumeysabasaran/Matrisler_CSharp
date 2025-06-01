@@ -1,0 +1,7 @@
+C:\Users\Rümeysa\OneDrive\Masaüstü\MatrisUygulamaları\MatrisKelebek\bin\Debug\MatrisKelebek.exe.config
+C:\Users\Rümeysa\OneDrive\Masaüstü\MatrisUygulamaları\MatrisKelebek\bin\Debug\MatrisKelebek.exe
+C:\Users\Rümeysa\OneDrive\Masaüstü\MatrisUygulamaları\MatrisKelebek\bin\Debug\MatrisKelebek.pdb
+C:\Users\Rümeysa\OneDrive\Masaüstü\MatrisUygulamaları\MatrisKelebek\obj\Debug\MatrisKelebek.csproj.AssemblyReference.cache
+C:\Users\Rümeysa\OneDrive\Masaüstü\MatrisUygulamaları\MatrisKelebek\obj\Debug\MatrisKelebek.csproj.CoreCompileInputs.cache
+C:\Users\Rümeysa\OneDrive\Masaüstü\MatrisUygulamaları\MatrisKelebek\obj\Debug\MatrisKelebek.exe
+C:\Users\Rümeysa\OneDrive\Masaüstü\MatrisUygulamaları\MatrisKelebek\obj\Debug\MatrisKelebek.pdb
