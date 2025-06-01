@@ -1,0 +1,7 @@
+C:\Users\Rümeysa\OneDrive\Masaüstü\MatrisUygulamaları\Stringİşlemler\bin\Debug\Stringİşlemler.exe.config
+C:\Users\Rümeysa\OneDrive\Masaüstü\MatrisUygulamaları\Stringİşlemler\bin\Debug\Stringİşlemler.exe
+C:\Users\Rümeysa\OneDrive\Masaüstü\MatrisUygulamaları\Stringİşlemler\bin\Debug\Stringİşlemler.pdb
+C:\Users\Rümeysa\OneDrive\Masaüstü\MatrisUygulamaları\Stringİşlemler\obj\Debug\Stringİşlemler.csproj.AssemblyReference.cache
+C:\Users\Rümeysa\OneDrive\Masaüstü\MatrisUygulamaları\Stringİşlemler\obj\Debug\Stringİşlemler.csproj.CoreCompileInputs.cache
+C:\Users\Rümeysa\OneDrive\Masaüstü\MatrisUygulamaları\Stringİşlemler\obj\Debug\Stringİşlemler.exe
+C:\Users\Rümeysa\OneDrive\Masaüstü\MatrisUygulamaları\Stringİşlemler\obj\Debug\Stringİşlemler.pdb
