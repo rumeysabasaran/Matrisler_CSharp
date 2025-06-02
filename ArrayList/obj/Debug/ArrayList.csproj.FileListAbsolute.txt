@@ -1,0 +1,7 @@
+C:\Users\Rümeysa\OneDrive\Masaüstü\MatrisUygulamaları\ArrayList\obj\Debug\ArrayList.csproj.AssemblyReference.cache
+C:\Users\Rümeysa\OneDrive\Masaüstü\MatrisUygulamaları\ArrayList\obj\Debug\ArrayList.csproj.CoreCompileInputs.cache
+C:\Users\Rümeysa\OneDrive\Masaüstü\MatrisUygulamaları\ArrayList\bin\Debug\ArrayList.exe.config
+C:\Users\Rümeysa\OneDrive\Masaüstü\MatrisUygulamaları\ArrayList\bin\Debug\ArrayList.exe
+C:\Users\Rümeysa\OneDrive\Masaüstü\MatrisUygulamaları\ArrayList\bin\Debug\ArrayList.pdb
+C:\Users\Rümeysa\OneDrive\Masaüstü\MatrisUygulamaları\ArrayList\obj\Debug\ArrayList.exe
+C:\Users\Rümeysa\OneDrive\Masaüstü\MatrisUygulamaları\ArrayList\obj\Debug\ArrayList.pdb
