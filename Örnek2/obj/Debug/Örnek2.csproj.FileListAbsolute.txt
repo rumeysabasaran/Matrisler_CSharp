@@ -1,0 +1,7 @@
+C:\Users\Rümeysa\OneDrive\Masaüstü\MatrisUygulamaları\Örnek2\bin\Debug\Örnek2.exe.config
+C:\Users\Rümeysa\OneDrive\Masaüstü\MatrisUygulamaları\Örnek2\bin\Debug\Örnek2.exe
+C:\Users\Rümeysa\OneDrive\Masaüstü\MatrisUygulamaları\Örnek2\bin\Debug\Örnek2.pdb
+C:\Users\Rümeysa\OneDrive\Masaüstü\MatrisUygulamaları\Örnek2\obj\Debug\Örnek2.csproj.AssemblyReference.cache
+C:\Users\Rümeysa\OneDrive\Masaüstü\MatrisUygulamaları\Örnek2\obj\Debug\Örnek2.csproj.CoreCompileInputs.cache
+C:\Users\Rümeysa\OneDrive\Masaüstü\MatrisUygulamaları\Örnek2\obj\Debug\Örnek2.exe
+C:\Users\Rümeysa\OneDrive\Masaüstü\MatrisUygulamaları\Örnek2\obj\Debug\Örnek2.pdb
